@@ -407,6 +407,9 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title="LOKAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+
+
 --------------------------------------kids------------------
 #EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Kids",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -674,6 +677,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 #EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/968/49968-SNAPSHOT-l.png" group-title="Movies",Cinemachi Kids HD
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1154,6 +1160,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
  
 #EXTINF:-1 tvg-id="714.astro" tvg-logo="https://iili.io/JZIBpS4.png" group-title="Entertainment & LifeStyle",Crime Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1511,6 +1518,9 @@ https://raw.githubusercontent.com/warningfm/utubeLive/main/Bernama.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
+
+
+
 --------------------------------korea--------------------------------
 
 
@@ -1586,6 +1596,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
 #EXTINF:-1  tvg-name="gem" tvg-id="gem" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gem.png" group-title="Korean Channels",GEM (MAXSTREAM)
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
+
+
 
 <======================== Malaysia ==========================>
 
@@ -1753,6 +1765,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Malaysia", TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+
+
 <============================== Brunei ======================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2716,7 +2731,6 @@ http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59219
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59218
 #EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Sports", ASSP4 HD🇲🇾
 http://mohdtv.com:8880/ALLChannels580cde003e8c/31680791/59217
-
 
 
 
@@ -31059,4 +31073,3 @@ https://video1.tizam.cc/files/2547669/zena__porno_parodiya_na_russkom__obnovleno
 https://video2.tizam.cc/files/1116580/eto_ne_avatar.__avatar_hhh.mp4
 #EXTINF:0 group-title="Кино_пакет",Охотники за приведениями (2016)
 https://video1.tizam.cc/films/Ghostbusters.mp4
-
