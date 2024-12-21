@@ -3,19 +3,19 @@
 
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 --------------------------------------------------------------------------------
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI (VIP)
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SCTV (VIP)
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", SCTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", TRANSTV (VIP)
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", TRANSTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", TRANS7 (VIP)
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", TRANS7 (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", MNCTV (VIP)
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", MNCTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", INDOSIAR (VIP)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔴NASIONAL", INDOSIAR (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#EXTINF:-1 group-title="SHAREEXT@INDONESIA ➾  SPORTS" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV (VIP)
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331 
 
 #EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://iili.io/JjzV4ol.png" group-title="🔴NASIONAL",Sportstars
