@@ -3,20 +3,34 @@
 
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 --------------------------------------------------------------------------------
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/DL.png", DUNIA LAIN
+http://filex.tv:8080/live/aftab123/004090/302238.ts
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/ANTV.png", ANTV (VIP)
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RTV.png", RTV
+https://visionplus.id
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI
+http://opplex.tv:8080/live/mother/mother/351023.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", SCTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", SCTV
+http://opplex.tv:8080/live/mother/mother/351030.ts
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", TRANSTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", TRANS7 (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", MNCTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
+http://filex.tv:8080/live/aftab123/004090/302278.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔴NASIONAL", INDOSIAR (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔴NASIONAL", INDOSIAR
+http://opplex.tv:8080/live/mother/mother/350972.ts
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331 
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV
+http://opplex.tv:8080/live/mother/mother/350954.ts
 
 #EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://iili.io/JjzV4ol.png" group-title="🔴NASIONAL",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -170,7 +184,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="🔴NASIONAL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD (INDIHOME)
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t4f9HYy/kompas-tv.png" group-title="🔴NASIONAL", Kompas TV
