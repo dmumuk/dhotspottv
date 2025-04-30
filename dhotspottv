@@ -24,7 +24,7 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴NASIONAL", MNCTV (VIP)
 http://filex.tv:8080/live/aftab123/004090/302278.ts
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔴NASIONAL", INDOSIAR (VIP)
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔴NASIONAL", INDOSIAR
 http://opplex.tv:8080/live/mother/mother/350972.ts
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV (VIP)
