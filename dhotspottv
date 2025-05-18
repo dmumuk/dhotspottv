@@ -171,6 +171,8 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="TV INDONESIA", MOJI TV VIP2
 http://opplex.tv:8080/live/mother/mother/350997.ts
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zee Bioskop.svg/1024px-Zee Bioskop.svg.png" group-title="TV INDONESIA", Zee Bioskop
+http://opplex.tv:8080/mohsin655/4969292/351060
 
 #EXTINF:-1 tvg-id="TV ONE SD - [Channel 97].id" group-title="TV INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TV ONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
